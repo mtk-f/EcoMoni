@@ -1,4 +1,4 @@
 #pragma once
 
-//プロトタイプ宣言.
+// プロトタイプ宣言.
 void pause();
